@@ -1,0 +1,49 @@
+.sidebar {
+  float: right;
+}
+
+
+.main {
+  margin: 50px solid orange;
+  border: 2px solid lightpink;
+  padding-left: 10px;
+  background-color: darkgreen;
+}
+
+.section {
+  margin: 50px solid lightgreen;
+  border: 2px solid purple;
+  padding-left: 10px;
+  background-color: darkred;
+}
+
+.article {
+  margin: 50px solid blue;
+  border: 2px solid black;
+  padding-left: 10px;
+  background-color: lightgrey;
+}
+
+p {
+  float:right;
+}
+
+.row {
+  margin: 50px solid orange;
+  border: 2px solid red;
+  padding-left: 10px;
+  background-color: darkgreen;
+}
+
+.column {
+  margin: 50px solid orange;
+  border: 2px solid red;
+  padding-left: 10px;
+  background-color: darkgreen;
+}
+
+img.biopic {
+  width: 25%;
+  height: 25%;
+  float: left;
+}
